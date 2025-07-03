@@ -16,4 +16,6 @@ section {
   background: rgba(101, 180, 233, 0.678);
   padding-bottom: 80px;
   padding-top: 80px;
+  display: flex;
+  justify-content: center;
 }
